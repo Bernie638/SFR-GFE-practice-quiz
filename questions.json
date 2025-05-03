@@ -1,0 +1,15 @@
+[
+  {
+    "id": "PWR47",
+    "topic": "Valves",
+    "question": "Refer to the drawing of four air-operated valves (see figure below). The valve actuators may be shown with or without air pressure applied.\n\nWhich valves are currently shown in their failed (i.e., no air pressure applied to the actuator) positions?",
+    "image": "valve_diagram_01.png",
+    "choices": [
+      "A. A and B",
+      "B. B and C",
+      "C. C and D",
+      "D. D and A"
+    ],
+    "answer": "B"
+  }
+]
